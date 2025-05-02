@@ -1,0 +1,609 @@
+Precinct County Code	Precinct County Name	Precinct Election Number	Precinct Election Date	Precinct Election Name	Precinct Unique Precinct Identifier	Precinct Precinct Polling Location	Precinct Total Registered Voters	Precinct Total Registered Republicans	Precinct Total Registered Democrats	Precinct Total Registered All Other Parties	Contest Contest Name	Contest District	Contest Contest Code	Votes Candidate/Retention/Issue Name/WriteInsCast/OverVotes/UnderVotes	Votes Candidate Party	Votes Candidate Florida Voter Registration System ID Number	Votes DOE Assigned Candidate Number or Retention/Issue Number	Votes Vote Total
+CLA	Clay	10481	11/06/2018	2018 General Election	602	602 - Green Cove Springs City	1132	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	69544	536
+CLA	Clay	10481	11/06/2018	2018 General Election	602	602 - Green Cove Springs City	1132	0	0	0	State Representative	 District 19	260190	Paul Still	DEM	100753773	70533	166
+CLA	Clay	10481	11/06/2018	2018 General Election	602	602 - Green Cove Springs City	1132	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+CLA	Clay	10481	11/06/2018	2018 General Election	602	602 - Green Cove Springs City	1132	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	22
+CLA	Clay	10481	11/06/2018	2018 General Election	604	604 - Green Cove Springs City	2801	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	69544	1587
+CLA	Clay	10481	11/06/2018	2018 General Election	604	604 - Green Cove Springs City	2801	0	0	0	State Representative	 District 19	260190	Paul Still	DEM	100753773	70533	427
+CLA	Clay	10481	11/06/2018	2018 General Election	604	604 - Green Cove Springs City	2801	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	1
+CLA	Clay	10481	11/06/2018	2018 General Election	604	604 - Green Cove Springs City	2801	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	66
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Gary Aubuchon	REP	111520792	55663	136
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Joe Davidow	REP	118278677	55316	8
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Byron Donalds	REP	103089553	55718	48
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Chauncey Porter Goss	REP	118381940	55515	128
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Paige Kreegel	REP	102562145	55148	129
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Trey Radel	REP	103063688	55790	237
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Times Over Voted		0	901	2
+LEE	Lee	9546	08/14/2012	2012 Primary Election	36	36-FM GULF COAST CH           	4003	2018	860	1125	U.S. Representative	 District 19	140191	Number of Under Votes		0	902	9
+CLL	Collier	10480	08/28/2018	2018 Primary Election	101	101	3645	0	1031	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	52
+CLL	Collier	10480	08/28/2018	2018 Primary Election	101	101	3645	0	1031	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	24
+CLL	Collier	10480	08/28/2018	2018 Primary Election	101	101	3645	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	101	101	3645	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	4
+CLL	Collier	10480	08/28/2018	2018 Primary Election	103	103	1966	0	551	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	88
+CLL	Collier	10480	08/28/2018	2018 Primary Election	103	103	1966	0	551	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	34
+CLL	Collier	10480	08/28/2018	2018 Primary Election	103	103	1966	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	103	103	1966	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	8
+CLL	Collier	10480	08/28/2018	2018 Primary Election	135	135	4431	0	1245	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	169
+CLL	Collier	10480	08/28/2018	2018 Primary Election	135	135	4431	0	1245	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	51
+CLL	Collier	10480	08/28/2018	2018 Primary Election	135	135	4431	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	135	135	4431	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	18
+CLL	Collier	10480	08/28/2018	2018 Primary Election	139	139	2515	0	737	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	50
+CLL	Collier	10480	08/28/2018	2018 Primary Election	139	139	2515	0	737	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	17
+CLL	Collier	10480	08/28/2018	2018 Primary Election	139	139	2515	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	139	139	2515	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	6
+CLL	Collier	10480	08/28/2018	2018 Primary Election	141	141	2826	0	690	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	151
+CLL	Collier	10480	08/28/2018	2018 Primary Election	141	141	2826	0	690	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	52
+CLL	Collier	10480	08/28/2018	2018 Primary Election	141	141	2826	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	141	141	2826	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	14
+CLL	Collier	10480	08/28/2018	2018 Primary Election	142	142	1488	0	268	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	61
+CLL	Collier	10480	08/28/2018	2018 Primary Election	142	142	1488	0	268	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	26
+CLL	Collier	10480	08/28/2018	2018 Primary Election	142	142	1488	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	142	142	1488	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	9
+CLL	Collier	10480	08/28/2018	2018 Primary Election	155	155	6207	0	1327	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	220
+CLL	Collier	10480	08/28/2018	2018 Primary Election	155	155	6207	0	1327	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	71
+CLL	Collier	10480	08/28/2018	2018 Primary Election	155	155	6207	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	155	155	6207	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	18
+CLL	Collier	10480	08/28/2018	2018 Primary Election	156	156	4224	0	1473	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	265
+CLL	Collier	10480	08/28/2018	2018 Primary Election	156	156	4224	0	1473	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	70
+CLL	Collier	10480	08/28/2018	2018 Primary Election	156	156	4224	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	156	156	4224	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	33
+CLL	Collier	10480	08/28/2018	2018 Primary Election	159	159	1982	0	318	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	94
+CLL	Collier	10480	08/28/2018	2018 Primary Election	159	159	1982	0	318	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	31
+CLL	Collier	10480	08/28/2018	2018 Primary Election	159	159	1982	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	159	159	1982	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	9
+CLL	Collier	10480	08/28/2018	2018 Primary Election	189	189	264	0	71	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	17
+CLL	Collier	10480	08/28/2018	2018 Primary Election	189	189	264	0	71	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	6
+CLL	Collier	10480	08/28/2018	2018 Primary Election	189	189	264	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	189	189	264	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	3
+CLL	Collier	10480	08/28/2018	2018 Primary Election	190	190	3437	0	592	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	148
+CLL	Collier	10480	08/28/2018	2018 Primary Election	190	190	3437	0	592	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	55
+CLL	Collier	10480	08/28/2018	2018 Primary Election	190	190	3437	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	190	190	3437	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	46
+CLL	Collier	10480	08/28/2018	2018 Primary Election	193	193	5598	0	899	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	259
+CLL	Collier	10480	08/28/2018	2018 Primary Election	193	193	5598	0	899	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	93
+CLL	Collier	10480	08/28/2018	2018 Primary Election	193	193	5598	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	193	193	5598	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	81
+CLL	Collier	10480	08/28/2018	2018 Primary Election	194	194	3608	0	514	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	156
+CLL	Collier	10480	08/28/2018	2018 Primary Election	194	194	3608	0	514	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	55
+CLL	Collier	10480	08/28/2018	2018 Primary Election	194	194	3608	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	194	194	3608	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	32
+CLL	Collier	10480	08/28/2018	2018 Primary Election	202	202	5819	0	1335	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	359
+CLL	Collier	10480	08/28/2018	2018 Primary Election	202	202	5819	0	1335	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	131
+CLL	Collier	10480	08/28/2018	2018 Primary Election	202	202	5819	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	1
+CLL	Collier	10480	08/28/2018	2018 Primary Election	202	202	5819	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	53
+CLL	Collier	10480	08/28/2018	2018 Primary Election	203	203	6175	0	1161	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	359
+CLL	Collier	10480	08/28/2018	2018 Primary Election	203	203	6175	0	1161	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	109
+CLL	Collier	10480	08/28/2018	2018 Primary Election	203	203	6175	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	203	203	6175	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	47
+CLL	Collier	10480	08/28/2018	2018 Primary Election	222	222	3976	0	744	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	259
+CLL	Collier	10480	08/28/2018	2018 Primary Election	222	222	3976	0	744	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	90
+CLL	Collier	10480	08/28/2018	2018 Primary Election	222	222	3976	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	222	222	3976	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	54
+CLL	Collier	10480	08/28/2018	2018 Primary Election	223	223	6742	0	1596	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	439
+CLL	Collier	10480	08/28/2018	2018 Primary Election	223	223	6742	0	1596	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	151
+CLL	Collier	10480	08/28/2018	2018 Primary Election	223	223	6742	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	223	223	6742	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	53
+CLL	Collier	10480	08/28/2018	2018 Primary Election	251	251	6577	0	1536	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	382
+CLL	Collier	10480	08/28/2018	2018 Primary Election	251	251	6577	0	1536	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	105
+CLL	Collier	10480	08/28/2018	2018 Primary Election	251	251	6577	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	251	251	6577	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	47
+CLL	Collier	10480	08/28/2018	2018 Primary Election	252	252	2440	0	403	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	159
+CLL	Collier	10480	08/28/2018	2018 Primary Election	252	252	2440	0	403	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	21
+CLL	Collier	10480	08/28/2018	2018 Primary Election	252	252	2440	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	252	252	2440	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	21
+CLL	Collier	10480	08/28/2018	2018 Primary Election	255	255	5528	0	905	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	478
+CLL	Collier	10480	08/28/2018	2018 Primary Election	255	255	5528	0	905	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	22
+CLL	Collier	10480	08/28/2018	2018 Primary Election	255	255	5528	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	255	255	5528	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	44
+CLL	Collier	10480	08/28/2018	2018 Primary Election	257	257	3115	0	624	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	193
+CLL	Collier	10480	08/28/2018	2018 Primary Election	257	257	3115	0	624	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	49
+CLL	Collier	10480	08/28/2018	2018 Primary Election	257	257	3115	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	257	257	3115	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	34
+CLL	Collier	10480	08/28/2018	2018 Primary Election	258	258	5521	0	1264	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	305
+CLL	Collier	10480	08/28/2018	2018 Primary Election	258	258	5521	0	1264	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	122
+CLL	Collier	10480	08/28/2018	2018 Primary Election	258	258	5521	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	258	258	5521	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	47
+CLL	Collier	10480	08/28/2018	2018 Primary Election	414	414	2503	0	662	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	175
+CLL	Collier	10480	08/28/2018	2018 Primary Election	414	414	2503	0	662	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	42
+CLL	Collier	10480	08/28/2018	2018 Primary Election	414	414	2503	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	414	414	2503	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	28
+CLL	Collier	10480	08/28/2018	2018 Primary Election	416	416	819	0	94	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	28
+CLL	Collier	10480	08/28/2018	2018 Primary Election	416	416	819	0	94	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	10
+CLL	Collier	10480	08/28/2018	2018 Primary Election	416	416	819	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	416	416	819	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	1
+CLL	Collier	10480	08/28/2018	2018 Primary Election	418	418	5903	0	1236	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	358
+CLL	Collier	10480	08/28/2018	2018 Primary Election	418	418	5903	0	1236	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	97
+CLL	Collier	10480	08/28/2018	2018 Primary Election	418	418	5903	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	418	418	5903	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	44
+CLL	Collier	10480	08/28/2018	2018 Primary Election	428	428	2311	0	510	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	66
+CLL	Collier	10480	08/28/2018	2018 Primary Election	428	428	2311	0	510	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	27
+CLL	Collier	10480	08/28/2018	2018 Primary Election	428	428	2311	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	428	428	2311	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	7
+CLL	Collier	10480	08/28/2018	2018 Primary Election	430	430	3195	0	881	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	74
+CLL	Collier	10480	08/28/2018	2018 Primary Election	430	430	3195	0	881	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	34
+CLL	Collier	10480	08/28/2018	2018 Primary Election	430	430	3195	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	430	430	3195	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	9
+CLL	Collier	10480	08/28/2018	2018 Primary Election	434	434	4213	0	1245	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	249
+CLL	Collier	10480	08/28/2018	2018 Primary Election	434	434	4213	0	1245	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	83
+CLL	Collier	10480	08/28/2018	2018 Primary Election	434	434	4213	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	434	434	4213	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+CLL	Collier	10480	08/28/2018	2018 Primary Election	450	450	139	0	52	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	7
+CLL	Collier	10480	08/28/2018	2018 Primary Election	450	450	139	0	52	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	2
+CLL	Collier	10480	08/28/2018	2018 Primary Election	450	450	139	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	450	450	139	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	1
+CLL	Collier	10480	08/28/2018	2018 Primary Election	462	462	3283	0	440	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	162
+CLL	Collier	10480	08/28/2018	2018 Primary Election	462	462	3283	0	440	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	44
+CLL	Collier	10480	08/28/2018	2018 Primary Election	462	462	3283	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	462	462	3283	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	13
+CLL	Collier	10480	08/28/2018	2018 Primary Election	464	464	3837	0	626	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	210
+CLL	Collier	10480	08/28/2018	2018 Primary Election	464	464	3837	0	626	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	65
+CLL	Collier	10480	08/28/2018	2018 Primary Election	464	464	3837	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	464	464	3837	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	23
+CLL	Collier	10480	08/28/2018	2018 Primary Election	472	472	605	0	266	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	44
+CLL	Collier	10480	08/28/2018	2018 Primary Election	472	472	605	0	266	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	19
+CLL	Collier	10480	08/28/2018	2018 Primary Election	472	472	605	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	472	472	605	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	4
+CLL	Collier	10480	08/28/2018	2018 Primary Election	475	475	1128	0	155	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	34
+CLL	Collier	10480	08/28/2018	2018 Primary Election	475	475	1128	0	155	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	8
+CLL	Collier	10480	08/28/2018	2018 Primary Election	475	475	1128	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	475	475	1128	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	2
+CLL	Collier	10480	08/28/2018	2018 Primary Election	477	477	3830	0	575	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	187
+CLL	Collier	10480	08/28/2018	2018 Primary Election	477	477	3830	0	575	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	50
+CLL	Collier	10480	08/28/2018	2018 Primary Election	477	477	3830	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	477	477	3830	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	23
+CLL	Collier	10480	08/28/2018	2018 Primary Election	479	479	2064	0	406	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	126
+CLL	Collier	10480	08/28/2018	2018 Primary Election	479	479	2064	0	406	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	41
+CLL	Collier	10480	08/28/2018	2018 Primary Election	479	479	2064	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+CLL	Collier	10480	08/28/2018	2018 Primary Election	479	479	2064	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	19
+LEE	Lee	10480	08/28/2018	2018 Primary Election	3	PCT. 003	3931	0	1690	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	3	PCT. 003	3931	0	1690	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	3	PCT. 003	3931	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	3	PCT. 003	3931	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	4	PCT. 004	4854	0	1972	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	206
+LEE	Lee	10480	08/28/2018	2018 Primary Election	4	PCT. 004	4854	0	1972	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	112
+LEE	Lee	10480	08/28/2018	2018 Primary Election	4	PCT. 004	4854	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	4	PCT. 004	4854	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	30
+LEE	Lee	10480	08/28/2018	2018 Primary Election	6	PCT. 006	2191	0	804	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	109
+LEE	Lee	10480	08/28/2018	2018 Primary Election	6	PCT. 006	2191	0	804	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	62
+LEE	Lee	10480	08/28/2018	2018 Primary Election	6	PCT. 006	2191	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	6	PCT. 006	2191	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	13
+LEE	Lee	10480	08/28/2018	2018 Primary Election	7	PCT. 007	3921	0	2450	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	328
+LEE	Lee	10480	08/28/2018	2018 Primary Election	7	PCT. 007	3921	0	2450	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	178
+LEE	Lee	10480	08/28/2018	2018 Primary Election	7	PCT. 007	3921	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	7	PCT. 007	3921	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	90
+LEE	Lee	10480	08/28/2018	2018 Primary Election	8	PCT. 008	3773	0	2117	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	355
+LEE	Lee	10480	08/28/2018	2018 Primary Election	8	PCT. 008	3773	0	2117	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	203
+LEE	Lee	10480	08/28/2018	2018 Primary Election	8	PCT. 008	3773	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	8	PCT. 008	3773	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	86
+LEE	Lee	10480	08/28/2018	2018 Primary Election	9	PCT. 009	3412	0	1220	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	141
+LEE	Lee	10480	08/28/2018	2018 Primary Election	9	PCT. 009	3412	0	1220	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	94
+LEE	Lee	10480	08/28/2018	2018 Primary Election	9	PCT. 009	3412	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	9	PCT. 009	3412	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	22
+LEE	Lee	10480	08/28/2018	2018 Primary Election	10	PCT. 010	3111	0	792	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	136
+LEE	Lee	10480	08/28/2018	2018 Primary Election	10	PCT. 010	3111	0	792	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	65
+LEE	Lee	10480	08/28/2018	2018 Primary Election	10	PCT. 010	3111	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	10	PCT. 010	3111	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	16
+LEE	Lee	10480	08/28/2018	2018 Primary Election	11	PCT. 011	3314	0	880	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	195
+LEE	Lee	10480	08/28/2018	2018 Primary Election	11	PCT. 011	3314	0	880	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	93
+LEE	Lee	10480	08/28/2018	2018 Primary Election	11	PCT. 011	3314	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	11	PCT. 011	3314	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	36
+LEE	Lee	10480	08/28/2018	2018 Primary Election	12	PCT. 012	2864	0	647	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	138
+LEE	Lee	10480	08/28/2018	2018 Primary Election	12	PCT. 012	2864	0	647	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	70
+LEE	Lee	10480	08/28/2018	2018 Primary Election	12	PCT. 012	2864	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	12	PCT. 012	2864	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	34
+LEE	Lee	10480	08/28/2018	2018 Primary Election	13	PCT. 013	4065	0	1070	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	174
+LEE	Lee	10480	08/28/2018	2018 Primary Election	13	PCT. 013	4065	0	1070	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	120
+LEE	Lee	10480	08/28/2018	2018 Primary Election	13	PCT. 013	4065	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	13	PCT. 013	4065	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	36
+LEE	Lee	10480	08/28/2018	2018 Primary Election	14	PCT. 014	1371	0	357	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	74
+LEE	Lee	10480	08/28/2018	2018 Primary Election	14	PCT. 014	1371	0	357	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	58
+LEE	Lee	10480	08/28/2018	2018 Primary Election	14	PCT. 014	1371	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	14	PCT. 014	1371	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	12
+LEE	Lee	10480	08/28/2018	2018 Primary Election	15	PCT. 015	2880	0	655	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	153
+LEE	Lee	10480	08/28/2018	2018 Primary Election	15	PCT. 015	2880	0	655	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	81
+LEE	Lee	10480	08/28/2018	2018 Primary Election	15	PCT. 015	2880	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	15	PCT. 015	2880	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	16	PCT. 016	1620	0	457	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	156
+LEE	Lee	10480	08/28/2018	2018 Primary Election	16	PCT. 016	1620	0	457	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	52
+LEE	Lee	10480	08/28/2018	2018 Primary Election	16	PCT. 016	1620	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	16	PCT. 016	1620	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	26
+LEE	Lee	10480	08/28/2018	2018 Primary Election	17	PCT. 017	319	0	66	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	15
+LEE	Lee	10480	08/28/2018	2018 Primary Election	17	PCT. 017	319	0	66	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	6
+LEE	Lee	10480	08/28/2018	2018 Primary Election	17	PCT. 017	319	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	17	PCT. 017	319	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	4
+LEE	Lee	10480	08/28/2018	2018 Primary Election	18	PCT. 018	1031	0	139	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	25
+LEE	Lee	10480	08/28/2018	2018 Primary Election	18	PCT. 018	1031	0	139	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	8
+LEE	Lee	10480	08/28/2018	2018 Primary Election	18	PCT. 018	1031	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	18	PCT. 018	1031	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	9
+LEE	Lee	10480	08/28/2018	2018 Primary Election	19	PCT. 019	534	0	111	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	15
+LEE	Lee	10480	08/28/2018	2018 Primary Election	19	PCT. 019	534	0	111	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	10
+LEE	Lee	10480	08/28/2018	2018 Primary Election	19	PCT. 019	534	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	19	PCT. 019	534	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	2
+LEE	Lee	10480	08/28/2018	2018 Primary Election	20	PCT. 020	3702	0	1087	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	177
+LEE	Lee	10480	08/28/2018	2018 Primary Election	20	PCT. 020	3702	0	1087	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	109
+LEE	Lee	10480	08/28/2018	2018 Primary Election	20	PCT. 020	3702	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	20	PCT. 020	3702	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	44
+LEE	Lee	10480	08/28/2018	2018 Primary Election	21	PCT. 021	2355	0	560	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	122
+LEE	Lee	10480	08/28/2018	2018 Primary Election	21	PCT. 021	2355	0	560	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	68
+LEE	Lee	10480	08/28/2018	2018 Primary Election	21	PCT. 021	2355	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	21	PCT. 021	2355	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	22	PCT. 022	2938	0	654	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	130
+LEE	Lee	10480	08/28/2018	2018 Primary Election	22	PCT. 022	2938	0	654	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	64
+LEE	Lee	10480	08/28/2018	2018 Primary Election	22	PCT. 022	2938	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	22	PCT. 022	2938	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	21
+LEE	Lee	10480	08/28/2018	2018 Primary Election	23	PCT. 023	2507	0	588	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	130
+LEE	Lee	10480	08/28/2018	2018 Primary Election	23	PCT. 023	2507	0	588	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	63
+LEE	Lee	10480	08/28/2018	2018 Primary Election	23	PCT. 023	2507	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	23	PCT. 023	2507	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	24
+LEE	Lee	10480	08/28/2018	2018 Primary Election	24	PCT. 024	2703	0	516	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	104
+LEE	Lee	10480	08/28/2018	2018 Primary Election	24	PCT. 024	2703	0	516	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	37
+LEE	Lee	10480	08/28/2018	2018 Primary Election	24	PCT. 024	2703	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	24	PCT. 024	2703	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	14
+LEE	Lee	10480	08/28/2018	2018 Primary Election	25	PCT. 025	4092	0	847	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	192
+LEE	Lee	10480	08/28/2018	2018 Primary Election	25	PCT. 025	4092	0	847	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	74
+LEE	Lee	10480	08/28/2018	2018 Primary Election	25	PCT. 025	4092	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	25	PCT. 025	4092	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	42
+LEE	Lee	10480	08/28/2018	2018 Primary Election	27	PCT. 027	2468	0	366	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	83
+LEE	Lee	10480	08/28/2018	2018 Primary Election	27	PCT. 027	2468	0	366	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	56
+LEE	Lee	10480	08/28/2018	2018 Primary Election	27	PCT. 027	2468	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	27	PCT. 027	2468	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	13
+LEE	Lee	10480	08/28/2018	2018 Primary Election	28	PCT. 028	4014	0	1022	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	164
+LEE	Lee	10480	08/28/2018	2018 Primary Election	28	PCT. 028	4014	0	1022	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	92
+LEE	Lee	10480	08/28/2018	2018 Primary Election	28	PCT. 028	4014	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	28	PCT. 028	4014	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	29	PCT. 029	4210	0	1105	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	166
+LEE	Lee	10480	08/28/2018	2018 Primary Election	29	PCT. 029	4210	0	1105	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	108
+LEE	Lee	10480	08/28/2018	2018 Primary Election	29	PCT. 029	4210	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	29	PCT. 029	4210	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	43
+LEE	Lee	10480	08/28/2018	2018 Primary Election	30	PCT. 030	2271	0	637	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	132
+LEE	Lee	10480	08/28/2018	2018 Primary Election	30	PCT. 030	2271	0	637	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	80
+LEE	Lee	10480	08/28/2018	2018 Primary Election	30	PCT. 030	2271	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	30	PCT. 030	2271	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	28
+LEE	Lee	10480	08/28/2018	2018 Primary Election	31	PCT. 031	3073	0	902	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	189
+LEE	Lee	10480	08/28/2018	2018 Primary Election	31	PCT. 031	3073	0	902	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	129
+LEE	Lee	10480	08/28/2018	2018 Primary Election	31	PCT. 031	3073	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	31	PCT. 031	3073	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	32
+LEE	Lee	10480	08/28/2018	2018 Primary Election	32	PCT. 032	4976	0	2617	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	300
+LEE	Lee	10480	08/28/2018	2018 Primary Election	32	PCT. 032	4976	0	2617	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	181
+LEE	Lee	10480	08/28/2018	2018 Primary Election	32	PCT. 032	4976	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	32	PCT. 032	4976	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	91
+LEE	Lee	10480	08/28/2018	2018 Primary Election	33	PCT. 033	2624	0	695	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	116
+LEE	Lee	10480	08/28/2018	2018 Primary Election	33	PCT. 033	2624	0	695	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	64
+LEE	Lee	10480	08/28/2018	2018 Primary Election	33	PCT. 033	2624	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	33	PCT. 033	2624	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	18
+LEE	Lee	10480	08/28/2018	2018 Primary Election	34	PCT. 034	3826	0	1051	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	136
+LEE	Lee	10480	08/28/2018	2018 Primary Election	34	PCT. 034	3826	0	1051	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	88
+LEE	Lee	10480	08/28/2018	2018 Primary Election	34	PCT. 034	3826	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	34	PCT. 034	3826	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	28
+LEE	Lee	10480	08/28/2018	2018 Primary Election	35	PCT. 035	3455	0	764	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	153
+LEE	Lee	10480	08/28/2018	2018 Primary Election	35	PCT. 035	3455	0	764	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	74
+LEE	Lee	10480	08/28/2018	2018 Primary Election	35	PCT. 035	3455	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	35	PCT. 035	3455	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	41
+LEE	Lee	10480	08/28/2018	2018 Primary Election	36	PCT. 036	9064	0	1866	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	484
+LEE	Lee	10480	08/28/2018	2018 Primary Election	36	PCT. 036	9064	0	1866	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	211
+LEE	Lee	10480	08/28/2018	2018 Primary Election	36	PCT. 036	9064	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	36	PCT. 036	9064	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	80
+LEE	Lee	10480	08/28/2018	2018 Primary Election	40	PCT. 040	2882	0	526	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	173
+LEE	Lee	10480	08/28/2018	2018 Primary Election	40	PCT. 040	2882	0	526	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	52
+LEE	Lee	10480	08/28/2018	2018 Primary Election	40	PCT. 040	2882	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	40	PCT. 040	2882	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	41	PCT. 041	2558	0	634	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	120
+LEE	Lee	10480	08/28/2018	2018 Primary Election	41	PCT. 041	2558	0	634	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	49
+LEE	Lee	10480	08/28/2018	2018 Primary Election	41	PCT. 041	2558	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	41	PCT. 041	2558	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	28
+LEE	Lee	10480	08/28/2018	2018 Primary Election	42	PCT. 042	4230	0	1808	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	106
+LEE	Lee	10480	08/28/2018	2018 Primary Election	42	PCT. 042	4230	0	1808	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	65
+LEE	Lee	10480	08/28/2018	2018 Primary Election	42	PCT. 042	4230	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	42	PCT. 042	4230	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	22
+LEE	Lee	10480	08/28/2018	2018 Primary Election	43	PCT. 043	3035	0	390	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	86
+LEE	Lee	10480	08/28/2018	2018 Primary Election	43	PCT. 043	3035	0	390	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	43	PCT. 043	3035	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	43	PCT. 043	3035	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	17
+LEE	Lee	10480	08/28/2018	2018 Primary Election	44	PCT. 044	4227	0	906	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	224
+LEE	Lee	10480	08/28/2018	2018 Primary Election	44	PCT. 044	4227	0	906	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	105
+LEE	Lee	10480	08/28/2018	2018 Primary Election	44	PCT. 044	4227	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	44	PCT. 044	4227	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	38
+LEE	Lee	10480	08/28/2018	2018 Primary Election	45	PCT. 045	2748	0	649	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	99
+LEE	Lee	10480	08/28/2018	2018 Primary Election	45	PCT. 045	2748	0	649	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	70
+LEE	Lee	10480	08/28/2018	2018 Primary Election	45	PCT. 045	2748	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	45	PCT. 045	2748	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	15
+LEE	Lee	10480	08/28/2018	2018 Primary Election	46	PCT. 046	4345	0	1461	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	251
+LEE	Lee	10480	08/28/2018	2018 Primary Election	46	PCT. 046	4345	0	1461	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	147
+LEE	Lee	10480	08/28/2018	2018 Primary Election	46	PCT. 046	4345	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	46	PCT. 046	4345	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	64
+LEE	Lee	10480	08/28/2018	2018 Primary Election	47	PCT. 047	4508	0	1516	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	227
+LEE	Lee	10480	08/28/2018	2018 Primary Election	47	PCT. 047	4508	0	1516	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	121
+LEE	Lee	10480	08/28/2018	2018 Primary Election	47	PCT. 047	4508	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	47	PCT. 047	4508	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	39
+LEE	Lee	10480	08/28/2018	2018 Primary Election	48	PCT. 048	3908	0	1258	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	284
+LEE	Lee	10480	08/28/2018	2018 Primary Election	48	PCT. 048	3908	0	1258	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	165
+LEE	Lee	10480	08/28/2018	2018 Primary Election	48	PCT. 048	3908	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	48	PCT. 048	3908	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	67
+LEE	Lee	10480	08/28/2018	2018 Primary Election	49	PCT. 049	2854	0	595	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	106
+LEE	Lee	10480	08/28/2018	2018 Primary Election	49	PCT. 049	2854	0	595	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	56
+LEE	Lee	10480	08/28/2018	2018 Primary Election	49	PCT. 049	2854	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	49	PCT. 049	2854	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	27
+LEE	Lee	10480	08/28/2018	2018 Primary Election	50	PCT. 050	4371	0	1627	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	189
+LEE	Lee	10480	08/28/2018	2018 Primary Election	50	PCT. 050	4371	0	1627	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	85
+LEE	Lee	10480	08/28/2018	2018 Primary Election	50	PCT. 050	4371	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	50	PCT. 050	4371	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	36
+LEE	Lee	10480	08/28/2018	2018 Primary Election	51	PCT. 051	5083	0	2145	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	186
+LEE	Lee	10480	08/28/2018	2018 Primary Election	51	PCT. 051	5083	0	2145	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	87
+LEE	Lee	10480	08/28/2018	2018 Primary Election	51	PCT. 051	5083	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	51	PCT. 051	5083	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	19
+LEE	Lee	10480	08/28/2018	2018 Primary Election	52	PCT. 052	3862	0	1526	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	174
+LEE	Lee	10480	08/28/2018	2018 Primary Election	52	PCT. 052	3862	0	1526	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	72
+LEE	Lee	10480	08/28/2018	2018 Primary Election	52	PCT. 052	3862	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	52	PCT. 052	3862	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	33
+LEE	Lee	10480	08/28/2018	2018 Primary Election	53	PCT. 053	4329	0	1606	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	139
+LEE	Lee	10480	08/28/2018	2018 Primary Election	53	PCT. 053	4329	0	1606	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	81
+LEE	Lee	10480	08/28/2018	2018 Primary Election	53	PCT. 053	4329	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	53	PCT. 053	4329	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	28
+LEE	Lee	10480	08/28/2018	2018 Primary Election	55	PCT. 055	4772	0	1155	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	172
+LEE	Lee	10480	08/28/2018	2018 Primary Election	55	PCT. 055	4772	0	1155	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	97
+LEE	Lee	10480	08/28/2018	2018 Primary Election	55	PCT. 055	4772	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	55	PCT. 055	4772	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	37
+LEE	Lee	10480	08/28/2018	2018 Primary Election	56	PCT. 056	3892	0	1155	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	130
+LEE	Lee	10480	08/28/2018	2018 Primary Election	56	PCT. 056	3892	0	1155	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	64
+LEE	Lee	10480	08/28/2018	2018 Primary Election	56	PCT. 056	3892	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	56	PCT. 056	3892	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	33
+LEE	Lee	10480	08/28/2018	2018 Primary Election	57	PCT. 057	3789	0	634	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	146
+LEE	Lee	10480	08/28/2018	2018 Primary Election	57	PCT. 057	3789	0	634	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	68
+LEE	Lee	10480	08/28/2018	2018 Primary Election	57	PCT. 057	3789	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	57	PCT. 057	3789	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	58	PCT. 058	3439	0	1392	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	195
+LEE	Lee	10480	08/28/2018	2018 Primary Election	58	PCT. 058	3439	0	1392	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	104
+LEE	Lee	10480	08/28/2018	2018 Primary Election	58	PCT. 058	3439	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	58	PCT. 058	3439	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	59	PCT. 059	3555	0	1157	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	164
+LEE	Lee	10480	08/28/2018	2018 Primary Election	59	PCT. 059	3555	0	1157	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	112
+LEE	Lee	10480	08/28/2018	2018 Primary Election	59	PCT. 059	3555	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	59	PCT. 059	3555	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	32
+LEE	Lee	10480	08/28/2018	2018 Primary Election	60	PCT. 060	2957	0	563	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	132
+LEE	Lee	10480	08/28/2018	2018 Primary Election	60	PCT. 060	2957	0	563	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	65
+LEE	Lee	10480	08/28/2018	2018 Primary Election	60	PCT. 060	2957	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	60	PCT. 060	2957	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	34
+LEE	Lee	10480	08/28/2018	2018 Primary Election	61	PCT. 061	3899	0	1083	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	134
+LEE	Lee	10480	08/28/2018	2018 Primary Election	61	PCT. 061	3899	0	1083	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	109
+LEE	Lee	10480	08/28/2018	2018 Primary Election	61	PCT. 061	3899	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	61	PCT. 061	3899	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	33
+LEE	Lee	10480	08/28/2018	2018 Primary Election	62	PCT. 062	3841	0	1039	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	160
+LEE	Lee	10480	08/28/2018	2018 Primary Election	62	PCT. 062	3841	0	1039	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	89
+LEE	Lee	10480	08/28/2018	2018 Primary Election	62	PCT. 062	3841	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	62	PCT. 062	3841	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	63	PCT. 063	3263	0	889	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	136
+LEE	Lee	10480	08/28/2018	2018 Primary Election	63	PCT. 063	3263	0	889	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	80
+LEE	Lee	10480	08/28/2018	2018 Primary Election	63	PCT. 063	3263	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	63	PCT. 063	3263	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	40
+LEE	Lee	10480	08/28/2018	2018 Primary Election	64	PCT. 064	4220	0	933	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	203
+LEE	Lee	10480	08/28/2018	2018 Primary Election	64	PCT. 064	4220	0	933	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	140
+LEE	Lee	10480	08/28/2018	2018 Primary Election	64	PCT. 064	4220	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	64	PCT. 064	4220	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	39
+LEE	Lee	10480	08/28/2018	2018 Primary Election	66	PCT. 066	1659	0	328	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	40
+LEE	Lee	10480	08/28/2018	2018 Primary Election	66	PCT. 066	1659	0	328	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	22
+LEE	Lee	10480	08/28/2018	2018 Primary Election	66	PCT. 066	1659	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	66	PCT. 066	1659	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	5
+LEE	Lee	10480	08/28/2018	2018 Primary Election	69	PCT. 069	4484	0	803	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	169
+LEE	Lee	10480	08/28/2018	2018 Primary Election	69	PCT. 069	4484	0	803	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	73
+LEE	Lee	10480	08/28/2018	2018 Primary Election	69	PCT. 069	4484	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	69	PCT. 069	4484	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	31
+LEE	Lee	10480	08/28/2018	2018 Primary Election	70	PCT. 070	3753	0	924	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	191
+LEE	Lee	10480	08/28/2018	2018 Primary Election	70	PCT. 070	3753	0	924	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	102
+LEE	Lee	10480	08/28/2018	2018 Primary Election	70	PCT. 070	3753	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	70	PCT. 070	3753	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	31
+LEE	Lee	10480	08/28/2018	2018 Primary Election	71	PCT. 071	2845	0	761	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	199
+LEE	Lee	10480	08/28/2018	2018 Primary Election	71	PCT. 071	2845	0	761	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	77
+LEE	Lee	10480	08/28/2018	2018 Primary Election	71	PCT. 071	2845	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	71	PCT. 071	2845	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	16
+LEE	Lee	10480	08/28/2018	2018 Primary Election	72	PCT. 072	3201	0	697	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	133
+LEE	Lee	10480	08/28/2018	2018 Primary Election	72	PCT. 072	3201	0	697	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	71
+LEE	Lee	10480	08/28/2018	2018 Primary Election	72	PCT. 072	3201	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	72	PCT. 072	3201	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	32
+LEE	Lee	10480	08/28/2018	2018 Primary Election	73	PCT. 073	3648	0	1036	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	202
+LEE	Lee	10480	08/28/2018	2018 Primary Election	73	PCT. 073	3648	0	1036	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	119
+LEE	Lee	10480	08/28/2018	2018 Primary Election	73	PCT. 073	3648	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	73	PCT. 073	3648	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	46
+LEE	Lee	10480	08/28/2018	2018 Primary Election	74	PCT. 074	3526	0	813	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	184
+LEE	Lee	10480	08/28/2018	2018 Primary Election	74	PCT. 074	3526	0	813	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	106
+LEE	Lee	10480	08/28/2018	2018 Primary Election	74	PCT. 074	3526	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	74	PCT. 074	3526	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	75	PCT. 075	4620	0	1044	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	217
+LEE	Lee	10480	08/28/2018	2018 Primary Election	75	PCT. 075	4620	0	1044	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	109
+LEE	Lee	10480	08/28/2018	2018 Primary Election	75	PCT. 075	4620	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	75	PCT. 075	4620	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	76	PCT. 076	2425	0	601	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	91
+LEE	Lee	10480	08/28/2018	2018 Primary Election	76	PCT. 076	2425	0	601	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	58
+LEE	Lee	10480	08/28/2018	2018 Primary Election	76	PCT. 076	2425	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	76	PCT. 076	2425	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	16
+LEE	Lee	10480	08/28/2018	2018 Primary Election	79	PCT. 079	3752	0	1062	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	307
+LEE	Lee	10480	08/28/2018	2018 Primary Election	79	PCT. 079	3752	0	1062	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	132
+LEE	Lee	10480	08/28/2018	2018 Primary Election	79	PCT. 079	3752	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	79	PCT. 079	3752	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	60
+LEE	Lee	10480	08/28/2018	2018 Primary Election	80	PCT. 080	2315	0	454	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	89
+LEE	Lee	10480	08/28/2018	2018 Primary Election	80	PCT. 080	2315	0	454	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	42
+LEE	Lee	10480	08/28/2018	2018 Primary Election	80	PCT. 080	2315	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	80	PCT. 080	2315	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	21
+LEE	Lee	10480	08/28/2018	2018 Primary Election	81	PCT. 081	2278	0	431	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	95
+LEE	Lee	10480	08/28/2018	2018 Primary Election	81	PCT. 081	2278	0	431	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	45
+LEE	Lee	10480	08/28/2018	2018 Primary Election	81	PCT. 081	2278	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	81	PCT. 081	2278	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	13
+LEE	Lee	10480	08/28/2018	2018 Primary Election	82	PCT. 082	1399	0	352	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	62
+LEE	Lee	10480	08/28/2018	2018 Primary Election	82	PCT. 082	1399	0	352	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	54
+LEE	Lee	10480	08/28/2018	2018 Primary Election	82	PCT. 082	1399	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	82	PCT. 082	1399	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	11
+LEE	Lee	10480	08/28/2018	2018 Primary Election	83	PCT. 083	2623	0	523	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	201
+LEE	Lee	10480	08/28/2018	2018 Primary Election	83	PCT. 083	2623	0	523	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	55
+LEE	Lee	10480	08/28/2018	2018 Primary Election	83	PCT. 083	2623	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	83	PCT. 083	2623	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	32
+LEE	Lee	10480	08/28/2018	2018 Primary Election	84	PCT. 084	3467	0	864	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	184
+LEE	Lee	10480	08/28/2018	2018 Primary Election	84	PCT. 084	3467	0	864	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	96
+LEE	Lee	10480	08/28/2018	2018 Primary Election	84	PCT. 084	3467	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	84	PCT. 084	3467	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	85	PCT. 085	2809	0	664	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	131
+LEE	Lee	10480	08/28/2018	2018 Primary Election	85	PCT. 085	2809	0	664	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	82
+LEE	Lee	10480	08/28/2018	2018 Primary Election	85	PCT. 085	2809	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	85	PCT. 085	2809	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	32
+LEE	Lee	10480	08/28/2018	2018 Primary Election	86	PCT. 086	4229	0	910	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	180
+LEE	Lee	10480	08/28/2018	2018 Primary Election	86	PCT. 086	4229	0	910	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	94
+LEE	Lee	10480	08/28/2018	2018 Primary Election	86	PCT. 086	4229	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	86	PCT. 086	4229	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	36
+LEE	Lee	10480	08/28/2018	2018 Primary Election	87	PCT. 087	2751	0	693	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	160
+LEE	Lee	10480	08/28/2018	2018 Primary Election	87	PCT. 087	2751	0	693	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	105
+LEE	Lee	10480	08/28/2018	2018 Primary Election	87	PCT. 087	2751	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	87	PCT. 087	2751	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	32
+LEE	Lee	10480	08/28/2018	2018 Primary Election	88	PCT. 088	2694	0	531	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	118
+LEE	Lee	10480	08/28/2018	2018 Primary Election	88	PCT. 088	2694	0	531	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	52
+LEE	Lee	10480	08/28/2018	2018 Primary Election	88	PCT. 088	2694	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	88	PCT. 088	2694	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	15
+LEE	Lee	10480	08/28/2018	2018 Primary Election	90	PCT. 090	3241	0	813	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	225
+LEE	Lee	10480	08/28/2018	2018 Primary Election	90	PCT. 090	3241	0	813	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	116
+LEE	Lee	10480	08/28/2018	2018 Primary Election	90	PCT. 090	3241	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	90	PCT. 090	3241	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	91	PCT. 091	3334	0	866	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	194
+LEE	Lee	10480	08/28/2018	2018 Primary Election	91	PCT. 091	3334	0	866	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	118
+LEE	Lee	10480	08/28/2018	2018 Primary Election	91	PCT. 091	3334	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	91	PCT. 091	3334	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	46
+LEE	Lee	10480	08/28/2018	2018 Primary Election	92	PCT. 092	4010	0	1177	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	214
+LEE	Lee	10480	08/28/2018	2018 Primary Election	92	PCT. 092	4010	0	1177	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	107
+LEE	Lee	10480	08/28/2018	2018 Primary Election	92	PCT. 092	4010	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	92	PCT. 092	4010	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	33
+LEE	Lee	10480	08/28/2018	2018 Primary Election	93	PCT. 093	3582	0	778	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	146
+LEE	Lee	10480	08/28/2018	2018 Primary Election	93	PCT. 093	3582	0	778	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	81
+LEE	Lee	10480	08/28/2018	2018 Primary Election	93	PCT. 093	3582	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	93	PCT. 093	3582	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	33
+LEE	Lee	10480	08/28/2018	2018 Primary Election	94	PCT. 094	3438	0	732	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	133
+LEE	Lee	10480	08/28/2018	2018 Primary Election	94	PCT. 094	3438	0	732	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	86
+LEE	Lee	10480	08/28/2018	2018 Primary Election	94	PCT. 094	3438	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	94	PCT. 094	3438	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	55
+LEE	Lee	10480	08/28/2018	2018 Primary Election	95	PCT. 095	3965	0	1138	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	186
+LEE	Lee	10480	08/28/2018	2018 Primary Election	95	PCT. 095	3965	0	1138	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	84
+LEE	Lee	10480	08/28/2018	2018 Primary Election	95	PCT. 095	3965	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	95	PCT. 095	3965	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	28
+LEE	Lee	10480	08/28/2018	2018 Primary Election	96	PCT. 096	3547	0	915	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	174
+LEE	Lee	10480	08/28/2018	2018 Primary Election	96	PCT. 096	3547	0	915	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	97
+LEE	Lee	10480	08/28/2018	2018 Primary Election	96	PCT. 096	3547	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	96	PCT. 096	3547	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	41
+LEE	Lee	10480	08/28/2018	2018 Primary Election	97	PCT. 097	3889	0	963	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	186
+LEE	Lee	10480	08/28/2018	2018 Primary Election	97	PCT. 097	3889	0	963	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	101
+LEE	Lee	10480	08/28/2018	2018 Primary Election	97	PCT. 097	3889	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	97	PCT. 097	3889	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	39
+LEE	Lee	10480	08/28/2018	2018 Primary Election	98	PCT. 098	3299	0	800	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	156
+LEE	Lee	10480	08/28/2018	2018 Primary Election	98	PCT. 098	3299	0	800	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	94
+LEE	Lee	10480	08/28/2018	2018 Primary Election	98	PCT. 098	3299	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	98	PCT. 098	3299	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	30
+LEE	Lee	10480	08/28/2018	2018 Primary Election	99	PCT. 099	3590	0	964	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	175
+LEE	Lee	10480	08/28/2018	2018 Primary Election	99	PCT. 099	3590	0	964	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	103
+LEE	Lee	10480	08/28/2018	2018 Primary Election	99	PCT. 099	3590	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	99	PCT. 099	3590	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	100	PCT. 100	2995	0	736	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	172
+LEE	Lee	10480	08/28/2018	2018 Primary Election	100	PCT. 100	2995	0	736	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	92
+LEE	Lee	10480	08/28/2018	2018 Primary Election	100	PCT. 100	2995	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	100	PCT. 100	2995	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	30
+LEE	Lee	10480	08/28/2018	2018 Primary Election	101	PCT. 101	3312	0	618	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	149
+LEE	Lee	10480	08/28/2018	2018 Primary Election	101	PCT. 101	3312	0	618	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	53
+LEE	Lee	10480	08/28/2018	2018 Primary Election	101	PCT. 101	3312	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	101	PCT. 101	3312	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	21
+LEE	Lee	10480	08/28/2018	2018 Primary Election	102	PCT. 102	4068	0	795	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	160
+LEE	Lee	10480	08/28/2018	2018 Primary Election	102	PCT. 102	4068	0	795	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	85
+LEE	Lee	10480	08/28/2018	2018 Primary Election	102	PCT. 102	4068	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	102	PCT. 102	4068	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	31
+LEE	Lee	10480	08/28/2018	2018 Primary Election	103	PCT. 103	4639	0	1277	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	174
+LEE	Lee	10480	08/28/2018	2018 Primary Election	103	PCT. 103	4639	0	1277	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	117
+LEE	Lee	10480	08/28/2018	2018 Primary Election	103	PCT. 103	4639	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	103	PCT. 103	4639	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	35
+LEE	Lee	10480	08/28/2018	2018 Primary Election	104	PCT. 104	3973	0	1031	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	185
+LEE	Lee	10480	08/28/2018	2018 Primary Election	104	PCT. 104	3973	0	1031	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	99
+LEE	Lee	10480	08/28/2018	2018 Primary Election	104	PCT. 104	3973	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	104	PCT. 104	3973	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	31
+LEE	Lee	10480	08/28/2018	2018 Primary Election	105	PCT. 105	4255	0	1146	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	172
+LEE	Lee	10480	08/28/2018	2018 Primary Election	105	PCT. 105	4255	0	1146	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	115
+LEE	Lee	10480	08/28/2018	2018 Primary Election	105	PCT. 105	4255	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	105	PCT. 105	4255	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	106	PCT. 106	3669	0	978	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	169
+LEE	Lee	10480	08/28/2018	2018 Primary Election	106	PCT. 106	3669	0	978	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	101
+LEE	Lee	10480	08/28/2018	2018 Primary Election	106	PCT. 106	3669	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	106	PCT. 106	3669	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	34
+LEE	Lee	10480	08/28/2018	2018 Primary Election	107	PCT. 107	5151	0	1120	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	214
+LEE	Lee	10480	08/28/2018	2018 Primary Election	107	PCT. 107	5151	0	1120	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	82
+LEE	Lee	10480	08/28/2018	2018 Primary Election	107	PCT. 107	5151	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	107	PCT. 107	5151	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	49
+LEE	Lee	10480	08/28/2018	2018 Primary Election	108	PCT. 108	4495	0	1334	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	206
+LEE	Lee	10480	08/28/2018	2018 Primary Election	108	PCT. 108	4495	0	1334	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	108
+LEE	Lee	10480	08/28/2018	2018 Primary Election	108	PCT. 108	4495	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	108	PCT. 108	4495	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	44
+LEE	Lee	10480	08/28/2018	2018 Primary Election	109	PCT. 109	4053	0	1239	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	165
+LEE	Lee	10480	08/28/2018	2018 Primary Election	109	PCT. 109	4053	0	1239	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	122
+LEE	Lee	10480	08/28/2018	2018 Primary Election	109	PCT. 109	4053	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	109	PCT. 109	4053	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	37
+LEE	Lee	10480	08/28/2018	2018 Primary Election	110	PCT. 110	3488	0	1130	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	142
+LEE	Lee	10480	08/28/2018	2018 Primary Election	110	PCT. 110	3488	0	1130	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	63
+LEE	Lee	10480	08/28/2018	2018 Primary Election	110	PCT. 110	3488	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	110	PCT. 110	3488	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	19
+LEE	Lee	10480	08/28/2018	2018 Primary Election	111	PCT. 111	2770	0	771	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	95
+LEE	Lee	10480	08/28/2018	2018 Primary Election	111	PCT. 111	2770	0	771	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	50
+LEE	Lee	10480	08/28/2018	2018 Primary Election	111	PCT. 111	2770	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	111	PCT. 111	2770	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	22
+LEE	Lee	10480	08/28/2018	2018 Primary Election	112	PCT. 112	4853	0	1179	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	213
+LEE	Lee	10480	08/28/2018	2018 Primary Election	112	PCT. 112	4853	0	1179	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	104
+LEE	Lee	10480	08/28/2018	2018 Primary Election	112	PCT. 112	4853	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	112	PCT. 112	4853	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	37
+LEE	Lee	10480	08/28/2018	2018 Primary Election	113	PCT. 113	3863	0	1111	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	112
+LEE	Lee	10480	08/28/2018	2018 Primary Election	113	PCT. 113	3863	0	1111	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	70
+LEE	Lee	10480	08/28/2018	2018 Primary Election	113	PCT. 113	3863	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	113	PCT. 113	3863	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	21
+LEE	Lee	10480	08/28/2018	2018 Primary Election	114	PCT. 114	3874	0	1164	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	178
+LEE	Lee	10480	08/28/2018	2018 Primary Election	114	PCT. 114	3874	0	1164	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	113
+LEE	Lee	10480	08/28/2018	2018 Primary Election	114	PCT. 114	3874	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	114	PCT. 114	3874	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	25
+LEE	Lee	10480	08/28/2018	2018 Primary Election	115	PCT. 115	5125	0	1379	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	167
+LEE	Lee	10480	08/28/2018	2018 Primary Election	115	PCT. 115	5125	0	1379	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	118
+LEE	Lee	10480	08/28/2018	2018 Primary Election	115	PCT. 115	5125	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	115	PCT. 115	5125	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	42
+LEE	Lee	10480	08/28/2018	2018 Primary Election	116	PCT. 116	4214	0	1120	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	163
+LEE	Lee	10480	08/28/2018	2018 Primary Election	116	PCT. 116	4214	0	1120	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	88
+LEE	Lee	10480	08/28/2018	2018 Primary Election	116	PCT. 116	4214	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	116	PCT. 116	4214	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	33
+LEE	Lee	10480	08/28/2018	2018 Primary Election	117	PCT. 117	2096	0	494	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	160
+LEE	Lee	10480	08/28/2018	2018 Primary Election	117	PCT. 117	2096	0	494	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	61
+LEE	Lee	10480	08/28/2018	2018 Primary Election	117	PCT. 117	2096	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	117	PCT. 117	2096	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	34
+LEE	Lee	10480	08/28/2018	2018 Primary Election	118	PCT. 118	3698	0	842	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	165
+LEE	Lee	10480	08/28/2018	2018 Primary Election	118	PCT. 118	3698	0	842	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	105
+LEE	Lee	10480	08/28/2018	2018 Primary Election	118	PCT. 118	3698	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	118	PCT. 118	3698	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	28
+LEE	Lee	10480	08/28/2018	2018 Primary Election	119	PCT. 119	2786	0	431	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	89
+LEE	Lee	10480	08/28/2018	2018 Primary Election	119	PCT. 119	2786	0	431	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	49
+LEE	Lee	10480	08/28/2018	2018 Primary Election	119	PCT. 119	2786	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	119	PCT. 119	2786	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	18
+LEE	Lee	10480	08/28/2018	2018 Primary Election	120	PCT. 120	3876	0	1016	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	131
+LEE	Lee	10480	08/28/2018	2018 Primary Election	120	PCT. 120	3876	0	1016	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	76
+LEE	Lee	10480	08/28/2018	2018 Primary Election	120	PCT. 120	3876	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	120	PCT. 120	3876	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	18
+LEE	Lee	10480	08/28/2018	2018 Primary Election	121	PCT. 121	3554	0	757	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	146
+LEE	Lee	10480	08/28/2018	2018 Primary Election	121	PCT. 121	3554	0	757	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	48
+LEE	Lee	10480	08/28/2018	2018 Primary Election	121	PCT. 121	3554	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	121	PCT. 121	3554	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	29
+LEE	Lee	10480	08/28/2018	2018 Primary Election	122	PCT. 122	3645	0	826	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	195
+LEE	Lee	10480	08/28/2018	2018 Primary Election	122	PCT. 122	3645	0	826	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	95
+LEE	Lee	10480	08/28/2018	2018 Primary Election	122	PCT. 122	3645	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	122	PCT. 122	3645	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	44
+LEE	Lee	10480	08/28/2018	2018 Primary Election	123	PCT. 123	3401	0	626	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	127
+LEE	Lee	10480	08/28/2018	2018 Primary Election	123	PCT. 123	3401	0	626	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	71
+LEE	Lee	10480	08/28/2018	2018 Primary Election	123	PCT. 123	3401	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	123	PCT. 123	3401	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	40
+LEE	Lee	10480	08/28/2018	2018 Primary Election	124	PCT. 124	3918	0	839	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	190
+LEE	Lee	10480	08/28/2018	2018 Primary Election	124	PCT. 124	3918	0	839	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	78
+LEE	Lee	10480	08/28/2018	2018 Primary Election	124	PCT. 124	3918	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	124	PCT. 124	3918	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	36
+LEE	Lee	10480	08/28/2018	2018 Primary Election	125	PCT. 125	3557	0	489	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	134
+LEE	Lee	10480	08/28/2018	2018 Primary Election	125	PCT. 125	3557	0	489	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	49
+LEE	Lee	10480	08/28/2018	2018 Primary Election	125	PCT. 125	3557	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	125	PCT. 125	3557	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	22
+LEE	Lee	10480	08/28/2018	2018 Primary Election	126	PCT. 126	1835	0	440	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	122
+LEE	Lee	10480	08/28/2018	2018 Primary Election	126	PCT. 126	1835	0	440	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	43
+LEE	Lee	10480	08/28/2018	2018 Primary Election	126	PCT. 126	1835	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	126	PCT. 126	1835	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	23
+LEE	Lee	10480	08/28/2018	2018 Primary Election	127	PCT. 127	1085	0	243	0	Representative in Congress	District 19	140192	David Holden	DEM	123120738	69964	51
+LEE	Lee	10480	08/28/2018	2018 Primary Election	127	PCT. 127	1085	0	243	0	Representative in Congress	District 19	140192	Todd James Truax	DEM	111345641	69939	46
+LEE	Lee	10480	08/28/2018	2018 Primary Election	127	PCT. 127	1085	0	0	0	Representative in Congress	District 19	140192	OverVotes		0	901	0
+LEE	Lee	10480	08/28/2018	2018 Primary Election	127	PCT. 127	1085	0	0	0	Representative in Congress	District 19	140192	UnderVotes		0	902	12
