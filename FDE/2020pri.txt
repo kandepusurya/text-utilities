@@ -1,0 +1,4 @@
+CLL	Collier		08/23/2022	2022 Primary Election	2020	202	4353	2325	0	0	Representative in Congress	 District 19	140191	Byron Donalds	REP	103089553	79881	766
+CLL	Collier		08/23/2022	2022 Primary Election	2020	202	4353	2325	0	0	Representative in Congress	 District 19	140191	Jim Huff	REP	119557849	81825	134
+CLL	Collier		08/23/2022	2022 Primary Election	2020	202	4353	0	0	0	Representative in Congress	 District 19	140191	OverVotes	 	0	901	0
+CLL	Collier		08/23/2022	2022 Primary Election	2020	202	4353	0	0	0	Representative in Congress	 District 19	140191	UnderVotes	 	0	902	17
